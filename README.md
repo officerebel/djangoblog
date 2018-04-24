@@ -1,7 +1,7 @@
 # djangoblog
 ## django blog module
 ##Make a virtual environment
-''' cd into the virtualenviroment
+``` cd into the virtualenviroment
 git clone https://github.com/officerebel/djangoblog.git
 
 cd djangoblog
@@ -17,4 +17,4 @@ password.
 python manage.py runserver
 open localhost:8000 and login.
 
-'''
+``` 
